@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ritikxsharma.github.io/users-info/static/css/main.5e59d0b6.css",
+    "main.js": "/ritikxsharma.github.io/users-info/static/js/main.8b708c6e.js",
+    "static/js/787.cc511b62.chunk.js": "/ritikxsharma.github.io/users-info/static/js/787.cc511b62.chunk.js",
+    "index.html": "/ritikxsharma.github.io/users-info/index.html",
+    "main.5e59d0b6.css.map": "/ritikxsharma.github.io/users-info/static/css/main.5e59d0b6.css.map",
+    "main.8b708c6e.js.map": "/ritikxsharma.github.io/users-info/static/js/main.8b708c6e.js.map",
+    "787.cc511b62.chunk.js.map": "/ritikxsharma.github.io/users-info/static/js/787.cc511b62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e59d0b6.css",
+    "static/js/main.8b708c6e.js"
+  ]
+}
